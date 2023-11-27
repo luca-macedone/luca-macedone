@@ -41,7 +41,7 @@ I'm <span style="text-decoration: underline;
 <h4 align="center">🔗 Linkedin & <span style="text-decoration: underline;
     text-decoration-style: wavy;
     text-decoration-color: #402D8A;
-    text-underline-offset: 4px;">Website</span> & Email</h4>
+    text-underline-offset: 4px;">Website</span></h4>
 <p align="center">
     <a href="https://www.linkedin.com/in/luca-macedone/">
         <img src="https://skillicons.dev/icons?i=linkedin">
@@ -49,11 +49,10 @@ I'm <span style="text-decoration: underline;
     <a href="https://lucamacedone.com" style="margin-left: 10px;">
         <img src="icon.png">
     </a>
-    <a href="mailto:macedone.luca@gmail.com" style="vertical-align:10px; margin-left: 10px;">
-        <!-- <img src="https://icons8.com/icon/85500/email"> -->
+    <!-- <a href="mailto:macedone.luca@gmail.com" style="vertical-align:10px; margin-left: 10px;">
         <svg xmlns="http://www.w3.org/2000/svg" height="2em" fill="#717fb1" viewBox="0 0 512 512">
         <path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>
-    </a>
+    </a> -->
 </p>
 
 <!--
