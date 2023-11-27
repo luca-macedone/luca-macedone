@@ -30,10 +30,10 @@ I'm <span style="text-decoration: underline;
 </p>
 <h4 align="center">Some stats about me 📈</h4>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-macedone&&layout=donut&theme=material-palenight&text_color=ddd8ec&hide_border=true">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=luca-macedone&hide=stars&count_private=true&show_icons=true&theme=material-palenight&text_color=ddd8ec&hide_border=true">
   </a>
 </p>
@@ -43,10 +43,10 @@ I'm <span style="text-decoration: underline;
     text-decoration-color: #402D8A;
     text-underline-offset: 4px;">Website</span></h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/luca-macedone/">
+    <a href="https://www.linkedin.com/in/luca-macedone/" style="text-decoration: none;">
         <img src="https://skillicons.dev/icons?i=linkedin">
     </a>
-    <a href="https://lucamacedone.com" style="margin-left: 10px;">
+    <a href="https://lucamacedone.com" style="margin-left: 10px; text-decoration: none;">
         <img src="icon.png">
     </a>
     <!-- <a href="mailto:macedone.luca@gmail.com" style="vertical-align:10px; margin-left: 10px;">
