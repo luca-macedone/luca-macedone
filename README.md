@@ -25,7 +25,7 @@ I'm <span style="text-decoration: underline;
 <h4 align="center">Web-Development used technologies 💻</h4>
 <p align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,ts,vue,vite,scss,php,laravel,java,spring,tailwind,git,docker,github,postman,stackoverflow&perline=10">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,ts,vue,vite,scss,php,laravel,java,spring,tailwind,git,docker,github,postman,stackoverflow,angular&perline=10">
   </div>
 </p>
 <h4 align="center">Some stats about me 📈</h4>
