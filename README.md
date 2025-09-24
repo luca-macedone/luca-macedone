@@ -31,10 +31,10 @@ I'm <span style="text-decoration: underline;
 <h4 align="center">Some stats about me 📈</h4>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-macedone&&layout=donut&theme=material-palenight&text_color=ddd8ec&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-macedone&&layout=donut&theme=transparent&text_color=F2F0FA&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=luca-macedone&hide=stars&count_private=true&show_icons=true&theme=material-palenight&text_color=ddd8ec&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=luca-macedone&hide=stars&count_private=true&show_icons=true&theme=transparent&text_color=F2F0FA&hide_border=true">
   </a>
 </p>
 <h2 align="center">How to reach me</h2>
